@@ -1,0 +1,4 @@
+{
+    "proxy" : "http://proxye1.finra.org:8080",
+    "rejectUnauthorized" : false
+}
